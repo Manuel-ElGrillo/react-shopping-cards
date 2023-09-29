@@ -2,7 +2,7 @@ export const productInfo = [
     {
         title: "Tourmaline & Eucalyptus Bar Soap",
         // bgImg: "bg-sky-300 h-40 rounded p-3",
-        img: "/src/assets/img/model-1.webp",
+        img: "/assets/img/model-1.webp",
         price: 12,
         quantity: 1,
         text: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complextion.",
@@ -12,7 +12,7 @@ export const productInfo = [
     {
         title: "Tourmaline & Argan Oil Bar Soap",
         // bgImg: "bg-orange-300 h-40 rounded p-3",
-        img: "/src/assets/img/model-2.webp",
+        img: "/assets/img/model-2.webp",
         price: 12,
         quantity: 1,
         text: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complextion.",
@@ -22,7 +22,7 @@ export const productInfo = [
     {
         title: "Tourmaline & Tea Tree Bar Soap",
         // bgImg: "bg-green-300 h-40 rounded p-3",
-        img: "/src/assets/img/model-1.webp",
+        img: "/assets/img/model-1.webp",
         price: 12,
         quantity: 1,
         text: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complextion.",
@@ -32,7 +32,7 @@ export const productInfo = [
     {
         title: "Tourmaline Unscented Bar Soap",
         // bgImg: "bg-purple-300 h-40 rounded p-3",
-        img: "/src/assets/img/model-2.webp",
+        img: "/assets/img/model-2.webp",
         price: 12,
         quantity: 1,
         text: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complextion.",
@@ -42,7 +42,7 @@ export const productInfo = [
     {
         title: "Tourmaline & Tea Tree Bar Soap",
         // bgImg: "bg-green-300 h-40 rounded p-3",
-        img: "/src/assets/img/model-1.webp",
+        img: "/assets/img/model-1.webp",
         price: 12,
         quantity: 1,
         text: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complextion.",
@@ -52,7 +52,7 @@ export const productInfo = [
     {
         title: "Tourmaline Unscented Bar Soap",
         // bgImg: "bg-purple-300 h-40 rounded p-3",
-        img: "/src/assets/img/model-2.webp",
+        img: "/assets/img/model-2.webp",
         price: 12,
         quantity: 1,
         text: "Recharge your skin with the super energizing power of finely crushed tourmaline powder blended with natural complextion.",
