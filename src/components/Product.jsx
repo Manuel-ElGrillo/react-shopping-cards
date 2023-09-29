@@ -27,7 +27,7 @@ const Product = ({ product, onProductQuantityChange }) => {
             <div className='flex flex-col border border-black rounded p-5 w-[95%] h-fit m-2'>
 
                 <div className='w-full bg-[#cfcfcf36] rounded'>
-                    <img src={product.img} alt="Model" className='mx-auto rounded-xl w-2/3 py-2'/>
+                    <img src={product.img} alt="Model" className='mx-auto rounded-xl w-2/3 h-auto py-2'/>
                 </div>
 
                 <h3 style={{ fontSize: `${newFontSize}px` }} className='my-2'>{title}</h3>
